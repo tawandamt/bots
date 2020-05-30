@@ -1,0 +1,8 @@
+flask
+wikipedia
+emoji
+googletrans
+warnings
+twilio
+requests
+twilio
